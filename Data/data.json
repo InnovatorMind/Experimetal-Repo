@@ -69,7 +69,14 @@
         "artist": "Quincy Larson",
         "duration": "2:43",
         "src": "https://cdn.freecodecamp.org/curriculum/js-music-player/chasing-that-feeling.mp3"
-      }
+      },
+      {
+        "id": 10,
+        "title": "Gangsta Paradise",
+        "artist": "dont know",
+        "duration": "5:02",
+        "src": "https://InnovatorMind.github.io/Experimetal-Repo/Music/GangstaParadise.mp3"
+      }      
     ]
   }
   
