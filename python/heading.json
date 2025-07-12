@@ -1,0 +1,11 @@
+{
+    "mainNavItem": "PYTHON CODES",
+    "scrollLinks": [
+        { "label": "BASIC JAVA", "page": "basic-java" },
+        { "label": "OPERATORS", "page": "operators" },
+        { "label": "CONDITIONAL", "page": "if-else&switch" },
+        { "label": "LOOPS", "page": "loops" },
+        { "label": "Array", "page": "array" },
+        { "label": "Function", "page": "function" }
+    ]
+}
